@@ -1,0 +1,127 @@
+🧱 01. Basics (1–25)
+Fundamentals, input/output, conditions, loops, operators
+
+I. Hello World
+2. Print Name and Age
+3. Add Two Numbers
+4. Swap Two Numbers (Using Temp)
+5. Swap Two Numbers (Without Temp)
+6. Find ASCII Value of Character
+7. Check Even or Odd
+8. Check Positive or Negative
+9. Largest Among Three Numbers
+10. Simple Calculator (Switch Case)
+11. Print All Natural Numbers
+12. Sum of First N Natural Numbers
+13. Factorial of a Number
+14. Multiplication Table
+15. Reverse a Number
+16. Palindrome Number
+17. Armstrong Number
+18. Check Leap Year
+19. Count Digits in a Number
+20. Power of a Number (Exponentiation)
+21. Fibonacci Series
+22. GCD of Two Numbers
+23. LCM of Two Numbers
+24. Sum of Digits of a Number
+25. Prime Number Check
+
+🔁 02. Control & Loops (26–35)
+Pattern printing, nested loops, flow control
+
+26. Print Star Pyramid
+27. Print Inverted Star Pyramid
+28. Print Number Triangle
+29. Floyd’s Triangle
+30. Pascal’s Triangle
+31. Check Vowel or Consonant
+32. Convert Case of Character
+33. Number is Prime in a Range
+34. Print All Prime Numbers in a Range
+35. Sum of Prime Numbers in a Range
+
+📚 03. Arrays & Strings (36–55)
+1D/2D arrays, string manipulations
+
+36. Find Largest Element in Array
+37. Find Smallest Element in Array
+38. Sort Array in Ascending Order
+39. Sort Array in Descending Order
+40. Find Duplicate Elements in Array
+41. Merge Two Arrays
+42. Linear Search
+43. Binary Search
+44. Reverse Array
+45. Count Even and Odd Elements in Array
+46. Matrix Addition
+47. Matrix Subtraction
+48. Matrix Multiplication
+49. Transpose of a Matrix
+50. String Length Without strlen()
+51. String Copy Without strcpy()
+52. String Concatenation
+53. Check Palindrome String
+54. Count Vowels in a String
+55. Convert String to Uppercase and Lowercase
+
+🧠 04. Functions & Recursion (56–65)
+
+56. Function to Add Two Numbers
+57. Factorial Using Recursion
+58. GCD Using Recursion
+59. Fibonacci Using Recursion
+60. Power Function Using Recursion
+61. Prime Check Using Function
+62. Swap Using Call by Reference
+63. Check Armstrong Using Function
+64. Count Digits Using Recursion
+65. Sum of Array Elements Using Recursion
+
+🧱 05. Object-Oriented Programming (66–75)
+
+66. Class and Object Example
+67. Constructor and Destructor
+68. Function Overloading
+69. Operator Overloading
+70. Single Inheritance
+71. Multiple Inheritance
+72. Multilevel Inheritance
+73. Hybrid Inheritance
+74. Friend Function
+75. Virtual Functions and Polymorphism
+
+📁 06. File Handling (76–80)
+
+76. Create and Write to a File
+77. Read from a File
+78. Append Data to File
+79. Copy One File to Another
+80. Count Words and Lines in File
+
+📈 07. Data Structures (81–90)
+
+81. Implement Stack (Array)
+82. Implement Queue (Array)
+83. Linear Search in Array
+84. Binary Search in Array
+85. Linked List Implementation
+86. Stack Using Linked List
+87. Queue Using Linked List
+88. Insertion Sort
+89. Bubble Sort
+90. Selection Sort
+
+🤖 08. Algorithms & Advanced (91–100)
+
+91. Binary Search Tree (Insert, Search)
+92. DFS (Graph Traversal)
+93. BFS (Graph Traversal)
+94. Dijkstra's Algorithm
+95. Tower of Hanoi
+96. N-Queens Problem
+97. Solve Sudoku (Backtracking)
+98. Knapsack Problem (Dynamic Programming)
+99. Merge Sort
+100. Quick Sort
+
