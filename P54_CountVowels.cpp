@@ -34,4 +34,4 @@ int main() {
 
 // Output:
 // Enter a string: Hello World!
-// Total number of vowels: 6
+// Total number of vowels: 3
