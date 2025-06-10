@@ -33,5 +33,5 @@ int main() {
 
 
 // Output:
-// Enter a string: Hello OpenAI
+// Enter a string: Hello World!
 // Total number of vowels: 6
